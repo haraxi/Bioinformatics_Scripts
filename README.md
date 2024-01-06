@@ -14,7 +14,9 @@ Each script is named with the task associated with it, along with the bioinforma
 
 ## **Alternative Splicing events in RNA-seq data of colitis-induced mice** ##
 
-In addition to the above project, I also assisted towards the progress of another project where we looked for alternative splicing events such as intron retention and exon splicing. Here, we analyzed tissue RNA-seq data for mice affected by colitis at discrete time intervals across both day and night. For this, I identified and tested various open-source bioinformatics tools to identify these splicing events. Some of the tools I used to study alternative splicing events included SPLADDER, vast-tools, SUPPA and RMAT. I wrote bash scripts to generate files with the splicing event information and analyzed the resultant .gtf files, facilitating analysis of long-read sequencing data. 
+In addition to the above project, I also assisted towards the progress of another project where we looked for alternative splicing events such as intron retention and exon splicing. Here, we analyzed tissue RNA-seq data for mice affected by colitis at discrete time intervals across both day and night. For this, I identified and tested various open-source bioinformatics tools to identify these splicing events. 
+
+Some of the tools I used to study alternative splicing events included SPLADDER, vast-tools, SUPPA and RMAT. I wrote bash scripts to generate files with the splicing event information and analyzed the resultant .gtf files, facilitating analysis of long-read sequencing data. 
 
 ## **Outcome** ##
 
