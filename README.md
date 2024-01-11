@@ -2,7 +2,7 @@
 
 ## **Overview** ## 
 
-Here is a list of various Bash scripts I wrote and compiled duting my time at the [Kuang Lab](https://labs.bio.cmu.edu/kuang/) at the Dept of Biological Sciences at Carnegie Mellon University. I started my research on the 15th of May 2023 to the 11th of August 2023, and worked on computational projects during my time at the lab.
+Here is a list of various Bash scripts I wrote and compiled during my time at the [Kuang Lab](https://labs.bio.cmu.edu/kuang/) at the Dept of Biological Sciences at Carnegie Mellon University. I started my research on the 15th of May 2023 to the 11th of August 2023, and worked on computational projects during my time at the lab.
 
 Broadly, we used a bioinformatics-based approach to build RNA-seq pipelines and subsequent circadian analysis of mice gene expression data. The primary objective of my project was to build and develop a simple workflow and RNA-seq pipeline to analyze the gene expression levels of the intestine epithelium in mice and identify whether these expression levels have circadian rhythms. 
 
